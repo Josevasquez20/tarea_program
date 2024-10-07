@@ -1,5 +1,5 @@
 
-#Creamos nuestro diccionario en donde vamos a colocar cavle - valor
+#Creamos nuestro diccionario en donde vamos a colocar cable - valor
 informacion_personal = {"Nombre":"José", "Edad":24,"Ciudad": "Quito","Email":"joseelias@gmail.com","Profesión": "Ingeniero de Software"}
 
 print("Diccionario actual\n",informacion_personal)
