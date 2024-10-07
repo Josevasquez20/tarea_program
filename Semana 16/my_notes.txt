@@ -1,0 +1,3 @@
+En la ultima semana de clases vamos a ver los archivos
+Los archivos nos permite crear textos
+Y con los diferentes metodos podemos editar
